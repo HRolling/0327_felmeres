@@ -63,7 +63,7 @@ header table td, header table th {
     height: auto;
     padding: 10px;
 }
-@media screen and (max-width:800px){
+@media screen and (max-width:1150px){
     .flex-container{
         flex-direction: column;
         padding: 100px 25px;
